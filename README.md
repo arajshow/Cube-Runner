@@ -2,6 +2,10 @@
 
 It's a cube game made frome unity using basic c# and unity software knowledge.
 
+##
+
+# Use install folder to get this game
+
 
 <img src = "https://github.com/arajshow/Cube-Runner/blob/master/Screenshot%20(303).png" height = 500 >
 
